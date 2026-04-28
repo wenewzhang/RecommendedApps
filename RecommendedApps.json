@@ -1,0 +1,18 @@
+[
+  {
+    "name": "photoprism",
+    "url": "photoprism/photoprism:260418-postgres",
+    "icon_url": "https://www.gravatar.com/avatar/e0ee421cf83fc2240825cda2b5139f64?s=120&r=g&d=404",
+    "stars": "5",
+    "description": "PhotoPrism is an AI-Powered Photos App for the Decentralized Web. It makes use of the latest technologies to tag and find pictures automatically",
+    "cn_description": "PhotoPrism 是一款面向去中心化网络的 AI 驱动照片管理应用。它利用最新技术实现照片的自动标注与智能检索。"
+  },
+  {
+    "name": "tailscale",
+    "url": "tailscale/tailscale:stable",
+    "icon_url": "https://www.gravatar.com/avatar/bd746196feb126b0f2824b20fed3f90c?s=120&r=g&d=404",
+    "stars": "4.5",
+    "description": "Tailscale lets you connect your devices and users together in your own secure virtual private network. Tailscale enables encrypted point-to-point connections using the open source WireGuard protocol.",
+    "cn_description": "Tailscale 让您能够在专属的安全虚拟专用网络中，将设备与用户紧密相连。它基于开源的 WireGuard 协议，实现了加密的点对点连接。"
+  }
+]
